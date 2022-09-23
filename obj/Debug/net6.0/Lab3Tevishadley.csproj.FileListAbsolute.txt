@@ -1,0 +1,15 @@
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\Lab3Tevishadley.csproj.AssemblyReference.cache
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\Lab3Tevishadley.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\Lab3Tevishadley.AssemblyInfoInputs.cache
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\Lab3Tevishadley.AssemblyInfo.cs
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\Lab3Tevishadley.csproj.CoreCompileInputs.cache
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\bin\Debug\net6.0\Lab3Tevishadley.exe
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\bin\Debug\net6.0\Lab3Tevishadley.deps.json
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\bin\Debug\net6.0\Lab3Tevishadley.runtimeconfig.json
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\bin\Debug\net6.0\Lab3Tevishadley.dll
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\bin\Debug\net6.0\Lab3Tevishadley.pdb
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\Lab3Tevishadley.dll
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\refint\Lab3Tevishadley.dll
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\Lab3Tevishadley.pdb
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\Lab3Tevishadley.genruntimeconfig.cache
+D:\Source\repos\C#\Lab3\Lab3Tevishadley\obj\Debug\net6.0\ref\Lab3Tevishadley.dll
